@@ -38,7 +38,7 @@
   display: flex;
 }
 .incomplete,
-.completed{
+.completed {
   margin: 0;
   padding: 0;
 }
@@ -48,7 +48,7 @@
   list-style: none;
 }
 .input,
-.button{
+.button {
   outline: none;
 }
 .button {
